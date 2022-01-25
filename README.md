@@ -22,14 +22,14 @@
   
   ##
  
-<div> 
-  <a href="https://www.instagram.com/domingosf.lequechane/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"/>
+<div onCLick="window.open('_blank');"> 
+  <a href="https://www.instagram.com/domingosf.lequechane/" target="_blank" style="target-new: tab;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href = "mailto:domingosf.lequechane@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
+  <a href = "mailto:domingosf.lequechane@gmail.com" target="_blank" style="target-new: tab;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/domingos-lequechane/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank"/>
+  <a href="https://www.linkedin.com/in/domingos-lequechane/" target="_blank" style="target-new: tab;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a> 
 </div>
