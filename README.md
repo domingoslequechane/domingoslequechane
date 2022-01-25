@@ -1,6 +1,7 @@
 ## Hi, I'm _Lequechane 👋
 
 - 🌱 I’m currently learning Flutter
+- 💙 What moves me? is the ability to impact lives through technology
 - 💬 Ask me about on Linkedin Or Email
 - 📫 How to reach me: use the Social Media below
 
