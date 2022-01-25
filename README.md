@@ -22,8 +22,8 @@
   
   ##
  
-<div onCLick="window.open('_blank');"> 
-  <a href="https://www.instagram.com/domingosf.lequechane/" target="_blank" style="target-new: tab;">
+<div> 
+  <a href="https://www.instagram.com/domingosf.lequechane/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href = "mailto:domingosf.lequechane@gmail.com" target="_blank" style="target-new: tab;">
