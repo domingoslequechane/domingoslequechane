@@ -1,6 +1,7 @@
 ## Hi, I'm _Lequechane 👋
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Kotlin
+- 👀 I'm interested in Mobile Development as a whole
 - 💙 What moves me? is the ability to impact lives through technology
 - 💬 Ask me about on Linkedin Or Email
 - 📫 How to reach me: use the Social Media below
@@ -16,10 +17,10 @@
 <div style="display: inline_block"><br>
   <a href="https://dart.dev/" target="_blank" ><img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a>
   <a href="https://flutter.dev/" target="_blank" ><img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
-<!--   <a href="https://www.oracle.com/java/technologies/" target="_blank" >
+  <a href="https://www.oracle.com/java/technologies/" target="_blank" >
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
   <a href="https://kotlinlang.org/" target="_blank" >
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a> -->
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
 </div>
   
   ##
