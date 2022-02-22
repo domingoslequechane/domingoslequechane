@@ -1,4 +1,4 @@
-## Hi, I'm _Lequechane 👋
+# Hi, I'm _Lequechane 👋
 
 - 🌱 I’m currently learning Flutter and Kotlin
 - 👀 I'm interested in Mobile Development as a whole
@@ -22,9 +22,12 @@
   <a href="https://kotlinlang.org/" target="_blank" >
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></a>
 </div>
+
+ <div>
+   <br/>
+ </div>
   
-  ##
- 
+  ## Connect with me:
 <div> 
   <a href="https://www.instagram.com/domingosf.lequechane/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
