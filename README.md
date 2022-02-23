@@ -45,3 +45,26 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a> 
 </div>
+  
+<!--  Quote text  -->
+<div>
+  <br>
+</div>
+  
+  <br>
+  
+<div>
+  <blockquote>
+  “Whether it's Google or Apple or a free program, we have fantastic competitors and that keeps us on our toes.”<br>
+  <cite>BILL GATES</cite>
+<blockquote>
+  </div>
+  
+
+  
+<div>
+  <blockquote>
+  “Technology moves the world.”<br>
+  <cite>STEVE JOBS</cite>
+</blockquote>
+    </div>
